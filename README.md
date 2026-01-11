@@ -2,6 +2,8 @@
 
 A minimal, single-file AI coding assistant built with TypeScript and Bun. Uses Claude AI with tool-calling capabilities for intelligent code manipulation.
 
+> 🚀 **Self-writing code from day one!** Start with just ~100 lines of basic tool framework, and nanocode writes the rest of itself. A true AI pair programmer that bootstraps its own development.
+
 ## ✨ Features
 
 - 🛠️ **10 Built-in Tools**: File operations, code search, shell execution, and more
