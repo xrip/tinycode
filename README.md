@@ -1,4 +1,4 @@
-# nanocode
+# tinycode
 
 A minimal, single-file AI coding assistant built with TypeScript and Bun. Uses Claude AI with tool-calling capabilities for intelligent code manipulation.
 
