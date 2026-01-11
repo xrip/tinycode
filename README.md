@@ -126,11 +126,6 @@ Automatically ignores common directories:
 ## 📚 Documentation
 
 - [CLAUDE.md](CLAUDE.md) - Architecture and design notes for AI
-- [EXEC_METHOD.md](EXEC_METHOD.md) - Details on the `exec` tool
-- [SYSTEM_PROMPT_CHANGELOG.md](SYSTEM_PROMPT_CHANGELOG.md) - System prompt enhancements
-- [FEATURES.md](FEATURES.md) - Complete feature list and roadmap
-- [SESSION_LOGGING.md](SESSION_LOGGING.md) - Session logging documentation
-- [SESSION_SUMMARY.md](SESSION_SUMMARY.md) - Development session notes
 
 ## 🤝 Contributing
 
